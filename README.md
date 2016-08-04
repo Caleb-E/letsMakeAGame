@@ -1,7 +1,4 @@
-package main.game;
-
-import java.awt.Graphics;
-import java.util.LinkedList;
+The Handler class for the game 
 
 public class Handler {
 
